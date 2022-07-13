@@ -1,0 +1,6 @@
+[
+    {
+        "id": 1,
+        "url": "image-registry.openshift-image-registry.svc:5000/telescope-apps/static-dashboard@sha256:a65a4150d1b003ac207cca7cca7e2fe74e9d21be45c78e9b6ac10e27678c71f95fa"
+    }
+]
