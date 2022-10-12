@@ -1,0 +1,1 @@
+window.BACKEND_API_URL="https://dev.app.redhat.com"
