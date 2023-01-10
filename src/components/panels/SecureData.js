@@ -3,7 +3,7 @@ import '../Dashboard.css';
 import aperture_green from '../screens/images/aperture-green.png';
 import aperture_red from '../screens/images/aperture-red-closed.png';
 import check_mark from '../screens/images/check_mark.png';
-import warning from '../screens/images/alert.png';
+import warning from '../screens/images/error.png';
 
 function SecureData(props) {
     const [overall, setOverall] = useState();
